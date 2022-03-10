@@ -1,0 +1,17 @@
+{ 
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.4",
+    "solc": "^0.4.17",
+    "web3": "^1.7.0"
+  }
+}
